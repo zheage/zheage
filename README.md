@@ -1,6 +1,4 @@
 ## Hello! I'm Heage, nice to meet you :)
-
-Sou um matemático blá blá blá.
 <div align="center">
   <a href="https://github.com/zheage">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zheage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +17,9 @@ Sou um matemático blá blá blá.
 ## Redes sociais
  
 <div> 
+   <a href="https://www.linkedin.com/in/richard-guilherme-da/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/richard-guilherme-da/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  

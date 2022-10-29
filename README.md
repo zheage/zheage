@@ -10,9 +10,9 @@
   <img align="center" alt="Heage-R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </div>
   
-## Redes sociais
+## Contact
  
-<div> 
+<div align = "center"> 
   <a href="https://www.linkedin.com/in/richard-guilherme-da/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  

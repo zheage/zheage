@@ -1,22 +1,25 @@
-## Bem vindo! Sou Heage.
-<div align="center">
-  <a href="https://github.com/zheage">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zheage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div align = "center">
-  
-## Skills 
-  <img align="center" alt="Heage-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Heage-R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  
-## Contato
- 
-<a href="https://www.linkedin.com/in/richard-guilherme-da/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-## Certificações
+[Richard Guilherme dos Santos] - Cientista de Dados
+Bem-vindo ao meu perfil no GitHub! Me chamo Richard, sou Cientista de Dados, Matemático e Estatístico. Aqui, você encontrará uma variedade de projetos, códigos e experimentos relacionados ao meu percurso na área de Data Science.
 
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Sobre Mim
+Sou um profissional formado em Matemática pela UNESP e mestre em estatística pela USP e UFSCAR. Tenho como foco o mercado de concessão de crédito, realizando modelos de classificação para predição de clientes inadimplentes e scores customizados para empresas.
+
+Habilidades
+Linguagens de Programação: Python (pandas, numpy, scikit-learn), R
+Banco de Dados: SQL
+Visualização de Dados: Matplotlib, Seaborn
+Aprendizado de Máquina: Modelagem preditiva, classificação, regressão, clustering
+Ferramentas: Jupyter Notebooks, Git, Databricks
+
+Projetos Destacados
+[Nome do Projeto 1]: Uma breve descrição do projeto e link para o repositório.
+...
+
+Contribuições
+Estou sempre em busca de aprendizado contínuo e colaboração. Se você tiver sugestões, melhorias ou quiser contribuir para algum projeto, fique à vontade para abrir issues ou pull requests. Acredito que o compartilhamento de conhecimento é crucial para o avanço da comunidade de Ciência de Dados.
+
+Contato
+LinkedIn: https://www.linkedin.com/in/richard-guilherme-da/
+Email: richard.guilherme@unesp.br
+
+Explore meus repositórios e entre em contato se tiver alguma pergunta ou sugestão. Vamos juntos explorar os dados e criar soluções impactantes! 🚀

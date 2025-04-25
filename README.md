@@ -1,25 +1,50 @@
-# Richard Guilherme dos Santos - Cientista de Dados
-Bem-vindo ao meu perfil no GitHub! Me chamo Richard, sou Cientista de Dados, Matemático e Estatístico. Aqui, você encontrará uma variedade de projetos, códigos e experimentos relacionados ao meu percurso na área de Data Science.
 
-# Sobre Mim
-Sou um profissional formado em Matemática pela UNESP e mestre em estatística pela USP e UFSCAR. Tenho como foco o mercado de concessão de crédito, realizando modelos de classificação para predição de clientes inadimplentes e scores customizados para empresas.
+# 👨‍💻 Richard Guilherme dos Santos — Cientista de Dados
 
-# Habilidades
-Linguagens de Programação: Python (pandas, numpy, scikit-learn), R
-Banco de Dados: SQL
-Visualização de Dados: Matplotlib, Seaborn
-Aprendizado de Máquina: Modelagem preditiva, classificação, regressão, clustering
-Ferramentas: Jupyter Notebooks, Git, Databricks
+Seja muito bem-vindo(a) ao meu perfil do GitHub! ✨  
+Me chamo Richard — Cientista de Dados, Matemático 📐 e Estatístico 📊 — e aqui compartilho projetos, códigos e experimentos que marcam a minha jornada no mundo da Ciência de Dados.
 
-# Projetos Destacados
-[Nome do Projeto 1]: Uma breve descrição do projeto e link para o repositório.
-...
+---
 
-# Contribuições
-Estou sempre em busca de aprendizado contínuo e colaboração. Se você tiver sugestões, melhorias ou quiser contribuir para algum projeto, fique à vontade para abrir issues ou pull requests. Acredito que o compartilhamento de conhecimento é crucial para o avanço da comunidade de Ciência de Dados.
+# 🧠 Sobre Mim
 
-Contato
-LinkedIn: https://www.linkedin.com/in/richard-guilherme-da/  
-Email: richard.guilherme@unesp.br
+🎓 Formado em Matemática pela UNESP e mestre em Estatística pela USP e UFSCar.  
+🏦 Especialista em **modelagem de risco de crédito** para o setor bancário, com foco no desenvolvimento de **modelos de PD e LGD** conforme a **Resolução 4966 do BACEN**.  
+💻 Trabalho com Python, SQL e SAS, estruturando pipelines de modelagem, análise exploratória, engenharia de atributos e construção de scores customizados.
 
-Explore meus repositórios e entre em contato se tiver alguma pergunta ou sugestão. Vamos juntos explorar os dados e criar soluções impactantes! 🚀
+---
+
+# 🛠️ Habilidades
+
+- **Linguagens de Programação:** Python 🐍 (pandas, numpy, scikit-learn), R 📈
+- **Bancos de Dados:** SQL 🗄️
+- **Visualização de Dados:** Matplotlib 📊, Seaborn 🐠
+- **Aprendizado de Máquina:** Modelagem preditiva 🔮, classificação ✅, regressão 📉, clustering 🔍
+- **Ferramentas:** Jupyter Notebooks 📓, Git 🔧, Databricks 🔥
+
+---
+
+# 🚀 Projetos Destacados
+
+🔎 *Em breve*: Estou organizando meus repositórios para trazer projetos focados em:
+- Modelos de risco de crédito
+- Análise de estabilidade de variáveis
+- Estudos de impacto financeiro de modelos de concessão
+- Aplicações práticas em Databricks e Spark
+
+*(Fique de olho nas atualizações!)* 👀
+
+---
+
+# 🤝 Contribuições
+
+Sou movido pelo aprendizado contínuo e pela colaboração! 💬  
+Se quiser sugerir melhorias, contribuir em projetos ou apenas bater um papo sobre Ciência de Dados, **sinta-se à vontade** para abrir issues ou enviar pull requests.
+
+Acredito que compartilhar conhecimento é o que move a nossa comunidade! 🌍✨
+
+---
+
+# 📬 Contato
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/richard-guilherme-da/)
